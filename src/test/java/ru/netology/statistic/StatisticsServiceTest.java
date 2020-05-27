@@ -19,7 +19,7 @@ class StatisticsServiceTest {
     }
 
     @Test
-    void findOtherMax() {
+    void Findothermax() {
         StatisticsService service = new StatisticsService();
 
         long[] incomesInBillions = {1, 2, 3, 4, 5, 6, 7, 55, 8, 9, 10};
